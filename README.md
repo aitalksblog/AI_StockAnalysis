@@ -15,18 +15,21 @@ Comparative Analysis: The dashboard displays comparative cumulative returns and 
 Linked Legend: A single, unified legend allows you to toggle the visibility of stocks across both charts simultaneously for easy comparison.
 
 DEMO
+
 Setup
 Follow these steps to get the project running on your local machine.
 
 1. Clone the Repository
 Bash
+
 git clone https://github.com/aitalksblog/AI_StockAnalysis.git
 cd AI_StockAnalysis
 
-2. Install Dependencies
+3. Install Dependencies
 This project requires a few Python libraries. You can install them all with pip:
 
 Bash
+
 pip install llama-index llama-index-llms-gemini yfinance pandas plotly python-dotenv
 
 3. Set Up Your API Key
@@ -35,6 +38,7 @@ Create a file named .env in the root directory of the project and add your Googl
 GOOGLE_API_KEY="your_google_api_key_here"
 
 USAGE
+
 To run the script, simply modify the prompt variable at the bottom of the file with your request and then execute the script from your terminal.
 
 Python
