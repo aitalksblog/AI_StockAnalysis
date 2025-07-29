@@ -25,7 +25,7 @@ Bash
 git clone https://github.com/aitalksblog/AI_StockAnalysis.git
 cd AI_StockAnalysis
 
-3. Install Dependencies
+2. Install Dependencies
 This project requires a few Python libraries. You can install them all with pip:
 
 Bash
