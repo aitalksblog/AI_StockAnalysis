@@ -39,7 +39,7 @@ To run the script, simply modify the prompt variable at the bottom of the file w
 
 Python
 
-# --- Prompt and Execution ---
+ --- Prompt and Execution ---
 prompt = "Show me a 3-month comparison of AMD and NVDA."
 
 print(f"--- Running Final Agent ---")
