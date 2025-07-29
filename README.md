@@ -15,6 +15,7 @@ Comparative Analysis: The dashboard displays comparative cumulative returns and 
 
 Linked Legend: A single, unified legend allows you to toggle the visibility of stocks across both charts simultaneously for easy comparison.
 
+
 DEMO
 
 Setup
@@ -37,6 +38,7 @@ pip install llama-index llama-index-llms-gemini yfinance pandas plotly python-do
 Create a file named .env in the root directory of the project and add your Google API key to it:
 
 GOOGLE_API_KEY="your_google_api_key_here"
+
 
 USAGE
 
