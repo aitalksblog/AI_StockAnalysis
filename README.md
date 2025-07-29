@@ -6,6 +6,7 @@ The core of this project is a single Python script that uses an agent to control
 For speed and cost-efficiency, this script is configured to use Google's models/gemini-2.5-flash-lite. Its performance is excellent for the kind of structured, tool-using tasks the agent performs in this analysis.
 
 FEATURES
+
 Natural Language Control: Analyze multiple stocks and timeframes (e.g., "Show me a 6-month comparison of AMD and NVDA") without changing code.
 
 Interactive Visualizations: Generates a single HTML file with linked subplots using Plotly.
