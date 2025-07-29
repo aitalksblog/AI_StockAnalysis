@@ -44,21 +44,11 @@ USAGE
 
 To run the script, simply modify the prompt variable at the bottom of the file with your request and then execute the script from your terminal.
 
-Python
-
- --- Prompt and Execution ---
- 
-prompt = "Show me a 3-month comparison of AMD and NVDA."
-
-print(f"--- Running Final Agent ---")
-response = agent.chat(prompt)
-
-print("\n--- Agent Final Response ---")
-print(response)
-
 The script will generate an HTML file named final_dashboard.html in the same directory.
 
+
 Example Prompts
+
 You can try various prompts to test the agent's flexibility:
 
 "Generate a comparative dashboard for TSLA, F, and GM over the last year."
